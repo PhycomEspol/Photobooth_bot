@@ -33,6 +33,6 @@ este proyecto fu hecho con la intención de recrear un ambiente mas diviertido a
 ## Mejoras y Posibles 
 ### Mejora:
 * enviar a cualquier tipo de dominio de correo
-### Posibles
+### Posibles Errores
 * la foto se tome antes de tiempo
 * que no detecte eel gesto correcto
