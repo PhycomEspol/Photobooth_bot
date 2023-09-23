@@ -31,8 +31,8 @@ este proyecto fu hecho con la intención de recrear un ambiente mas diviertido a
 * PIL/Pillow
 
 ## Mejoras y Posibles 
-# Mejora:
+### Mejora:
 * enviar a cualquier tipo de dominio de correo
-# Posibles
+### Posibles
 * la foto se tome antes de tiempo
 * que no detecte eel gesto correcto
